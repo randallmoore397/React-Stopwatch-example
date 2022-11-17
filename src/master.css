@@ -1,0 +1,19 @@
+.timer {
+    font-weight: bolder;
+}
+
+.main-body {
+    height: 37vh;
+}
+
+.app-name {
+    font-weight: bolder;
+}
+
+.version {
+    position: absolute;
+    float: right;
+    top: 2px;
+    margin-left: 8px;
+    ;
+}
